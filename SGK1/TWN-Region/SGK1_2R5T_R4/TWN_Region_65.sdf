@@ -1,0 +1,15 @@
+TWN_Region_65
+  TWNREGION          3D                             0
+
+  4  0  0  0  0  0  0  0  0  0999 V2000
+   -3.6400   11.9300   44.9000 O   0  0
+   -1.8800   10.0200   44.0000 O   0  0
+   -4.7100    9.7500   46.2700 O   0  0
+   -4.8400    9.0200   43.3100 O   0  0
+M  END
+
+> <region.frequency>
+4
+
+> <twn.pattern.names>
+TWN_Pattern_420
