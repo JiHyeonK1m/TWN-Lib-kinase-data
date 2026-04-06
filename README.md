@@ -35,7 +35,7 @@ The analysis was focused on the hinge binding site, which is the primary binding
 #### TWN-Pharma
 Based on TWN-Patterns, TWN-Pharma represents the pharmacophore features of the water network.
   - Hydrogen Bond Donor(Cyan)/Acceptor(Magenta), Ring Aromatic(Orange)
-  - In TWN-Pattern analysis, O atoms with a Solvent Dipole Order (SDO) ≥ 0.7 are considered forming hydrogen bonds with binding site.
+  - In TWN-Pattern analysis, O atoms with a Solvent Dipole Order (SDO) ≥ 0.7 are considered forming hydrogen bonds with binding site.
 
 #### CIM
 Homepage : https://ccim.cnu.ac.kr/cim/index.do/
